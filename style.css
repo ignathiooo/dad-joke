@@ -1,0 +1,30 @@
+body {
+    background-color: #d2D0BA;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    max-width: 1000px;
+    margin: auto auto;
+
+    background-color: #5E747F;
+    border-radius: 15px;
+    box-shadow: 10px;
+    padding: 50px 25px;
+    text-align: center;
+}
+#jokeBtn{
+    margin-top: 20px;
+    padding: 5px 10px;
+    font-size: 20px;
+    background-color:aquamarine;
+    border: 0;
+    border-radius: 15px;
+}
+
+h1{
+    color: aliceblue
+}
